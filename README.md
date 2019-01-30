@@ -1,3 +1,3 @@
 # firebaseAuth
 
-`npm install firebase`
+`npm install`
